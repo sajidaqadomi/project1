@@ -1,7 +1,6 @@
 hello  ello ello ello  ello
 
-<<<<<<< HEAD
+
 <h1> sample sajida</h1>
-=======
+
 <h1> sample masa </h1>
->>>>>>> 48769dec410c5ada8b039648781ffb57f2043ab4
